@@ -1,4 +1,4 @@
-# api gives user multiple chances of [0,1,2] along with user's attempts (3)
+# Magic Number APP - gives users multiple chances of [0,1,2] along with user's attempts (3)
 import random
 
 #creating list of 2-random numbers by random.randit(0, 9)
