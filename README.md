@@ -1,2 +1,2 @@
-# testGit
-This is for Git's test purpose
+# R
+Data Mining & Machine Learning
